@@ -25,7 +25,7 @@ SECRET_KEY = '0@wg$+05f1k*4u160exdu&_9ki1pe#s)f%*_)$_vrk0vg#y=2s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<sarumangold>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','sarumangold.pythonanywhere.com']
 
 
 # Application definition
